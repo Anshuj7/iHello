@@ -9,3 +9,4 @@
   <link rel="shortcut icon" href="img/favico.png" type="image/x-icon">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>
 </head>
+</html>
